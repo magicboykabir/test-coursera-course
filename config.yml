@@ -3,6 +3,7 @@ description: 'Coursera test Repository '
 template:
   repo: test-coursera-template
   name: test-coursera
+  description: test coursera
 before:
   - type: createIssue
     title: Welcome!
